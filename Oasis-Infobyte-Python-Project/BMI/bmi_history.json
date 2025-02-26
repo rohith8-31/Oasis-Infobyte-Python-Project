@@ -1,0 +1,34 @@
+{
+  "Rohith": [
+    {
+      "timestamp": "2025-02-26 15:47:49",
+      "weight": 65.0,
+      "height": 1.8123,
+      "bmi": 19.790336365964897,
+      "category": "Normal"
+    }
+  ],
+  "Ramesh": [
+    {
+      "timestamp": "2025-02-26 15:48:21",
+      "weight": 100.0,
+      "height": 1.845,
+      "bmi": 29.37698753681304,
+      "category": "Overweight"
+    },
+    {
+      "timestamp": "2025-02-26 15:48:32",
+      "weight": 50.0,
+      "height": 1.845,
+      "bmi": 14.68849376840652,
+      "category": "Underweight"
+    },
+    {
+      "timestamp": "2025-02-26 15:48:38",
+      "weight": 75.0,
+      "height": 1.845,
+      "bmi": 22.032740652609778,
+      "category": "Normal"
+    }
+  ]
+}

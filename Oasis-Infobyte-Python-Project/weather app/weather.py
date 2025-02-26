@@ -1,6 +1,6 @@
 import requests
 
-api_key = "5b16b0cedae2f3103972f9bde11f80da"  # Replace if invalid
+api_key = "Enter ur API key Here"  # Replace if invalid
 weather_url = "http://api.openweathermap.org/data/2.5/weather"
 
 city = input("Enter a city name: ")
